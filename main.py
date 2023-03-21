@@ -9,6 +9,8 @@ app = QApplication(sys.argv)
 
 # Create object
 window = ButtonHolder()
+window.resize(800, 600)
+
 
 # Windows of QT in windows is usually hidden |-> show() to show 
 # Start event loop, to check i/o
