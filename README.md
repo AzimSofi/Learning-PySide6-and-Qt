@@ -8,7 +8,7 @@ To run the code, follow these steps:
 3. Open the project in your prefereed Python IDE
 4. Run the desired Python script
 
-### To install pyside6
+### To install PySide6
 1. Open the command prompt.
 2. Type in the following command `pip3 install pyside6` for version3 python
 3. Press enter
